@@ -16,7 +16,7 @@ const scrollActive = () => {
 window.addEventListener('scroll', scrollActive);
 
 // end sections active link 
-
+//hady
 // scroll reveal animation
 const sr = ScrollReveal({
     origin: 'top',
